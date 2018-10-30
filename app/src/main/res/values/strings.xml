@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="type_a_username">Type a username</string>
+    <string name="goto_detail">Goto Detail</string>
+    <string name="contentdescription">contentDescription</string>
+    <string name="no_data_found">No DataFound</string>
+    <string name="followers">Followers</string>
+    <string name="you_can_find_github_user_by_username">You can find GitHub User by username</string>
+    <string name="search">Search</string>
+    <string name="notFound">No Follower Found.</string>
+</resources>
